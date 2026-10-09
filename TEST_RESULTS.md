@@ -42,6 +42,5 @@ No laptop latency benchmark was recorded.
 
 Repository: https://github.com/varungoparapu1994-alt/llm-education-chatbot
 
-The repository was created as private. Instructor access remains pending until
-an invitation is sent to the instructor's verified GitHub username and accepted.
-The ZIP alone does not fulfill the repository-access requirement.
+The repository is public. Submit the repository URL and source ZIP in the
+assignment portal; no collaborator invitation is required.

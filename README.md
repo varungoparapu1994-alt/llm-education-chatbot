@@ -70,9 +70,8 @@ download contacts Hugging Face; this is not a claim of absolute privacy.
 
 Repository: https://github.com/varungoparapu1994-alt/llm-education-chatbot
 
-The repository is private. Before submission, invite the instructor's verified
-GitHub username through Settings → Collaborators → Add people and ensure the
-invitation is accepted. The URL alone does not grant access.
+The repository is public. Your instructor can view and download the source code
+using the URL above without a collaborator invitation.
 
 Submit the repository URL and source ZIP in the assignment portal. Run both test
 commands and a browser interaction on the target laptop before submission.
